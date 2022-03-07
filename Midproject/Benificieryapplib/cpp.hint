@@ -1,0 +1,2 @@
+#define BENIFICIERYAPPLIB_API __declspec(dllexport)
+#define BENIFICIERYAPPLIB_API __declspec(dllimport)

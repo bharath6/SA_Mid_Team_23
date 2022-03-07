@@ -1,0 +1,2 @@
+#define COREUTILITYLIB_API __declspec(dllexport)
+#define COREUTILITYLIB_API __declspec(dllimport)
